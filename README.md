@@ -77,4 +77,5 @@ Load Balancing between two servers
 
 ## 🔗Live Demo
 
-
+[Watch Demo Video](Images/Azure-Loadbalancer.mp4)
+[Watch Demo Video](Images/Traffic-Manager.mp4)
