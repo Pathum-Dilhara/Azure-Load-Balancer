@@ -1,4 +1,4 @@
-# 🌐 Web Hosting with Load Balancing using Azure
+# 🌐 Web Hosting with Load Balancing using Azure and Terraform
 
 This project demonstrates a basic web hosting architecture on Microsoft Azure with high availability and load balancing. The setup includes **Azure Virtual Machines**, **Azure Application Gateway**, and **Azure Traffic Manager**, running on **Linux** VMs and serving static web content built with **HTML**.
 
@@ -11,6 +11,7 @@ This project demonstrates a basic web hosting architecture on Microsoft Azure wi
 
 ## 🧰 Technologies Used
 
+- Terraform (IaC) 
 - Microsoft Azure
   - Azure Virtual Machines (Linux)
   - Azure Application Gateway
